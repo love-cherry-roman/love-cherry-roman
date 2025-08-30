@@ -1,3 +1,3 @@
 ## Hi 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love-cherry-roman&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love-cherry-roman
 <br>
