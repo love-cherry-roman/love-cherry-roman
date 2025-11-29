@@ -1,2 +1,1 @@
-![](https://raw.githubusercontent.com/love-cherry-roman/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/love-cherry-roman/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![lovecherryroman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
